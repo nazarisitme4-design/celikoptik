@@ -950,12 +950,12 @@ main,
 
   .hero .carousel-item {
   
-    height: auto;
+    height: 900px;
   }
 
   .hero-content {
     position: absolute;
-    padding-top: 24px;
+    padding-top: 124px;
   }
 
   .hero h1 {
@@ -1078,4 +1078,8 @@ main,
     height: 44px;
     font-size: 1.12rem;
   }
+}
+ 
+.alt {
+  height: auto;
 }
